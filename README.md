@@ -1,6 +1,6 @@
 # Weather Forecasting App Prototype (Work in Progress)
 
-**Official Notice: Prototype Version**
+**Notice: Prototype Version**
 
 Dear Users,
 
