@@ -1,4 +1,4 @@
-# Weather Forecasting App Prototype (Work in Progress)
+# Weather Forecasting App Prototype (Work in Progress) JAVA Application
 
 **Notice: Prototype Version**
 
